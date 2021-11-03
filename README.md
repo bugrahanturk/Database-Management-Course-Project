@@ -1,2 +1,2 @@
 # Database Management Course Project
- In this project, we developed a generic application, like CIMER. But sample data and project demonstration done using Yıldırım Beyazıt University as a case-study.
+ Construction of a simple Cimer-style information access system within the scope of the database management course semester project. A console application has been made using SQL and MVC structure using Java language.
